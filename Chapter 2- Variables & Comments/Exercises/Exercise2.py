@@ -1,0 +1,1 @@
+print ('Kobe Bryant once said, "The moment you give up is the moment you let someone else win."')
