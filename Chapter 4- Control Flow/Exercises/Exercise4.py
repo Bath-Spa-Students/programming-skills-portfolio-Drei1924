@@ -14,7 +14,7 @@ elif age < 20:
 
 elif age <65:
     print("That person is an adult.")
-
+    
 else:
     print("That person is an elder.")
 
